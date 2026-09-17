@@ -1,3 +1,7 @@
 Ti ho mai detto qual è la definizione di Follia?
 Follia è fare e rifare la stessa cosa, ancora e poi ancora, sperando che qualcosa cambi
+<<<<<<< HEAD
 Questa è follia.
+=======
+Una volta ero pazzo
+>>>>>>> 82bac07433f87164fb3fe04c3fcaa9acb71e3541
